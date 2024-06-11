@@ -77,6 +77,5 @@
     <p>Estilizado com <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, modificado por <a href="https://github.com/laylabtrice" class="text-white">@laylabtrice</a>.</p>
   </footer>
 </div>
-   
   </body>
 </html>
