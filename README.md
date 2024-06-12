@@ -17,20 +17,18 @@ Este projeto é um site com funcionalidade de criação de cadastro e login de c
 
 ## Estrutura do Projeto
 
-O projeto é dividido em três páginas principais:
+1. *Tela Inicial - index.php*: Serve como a entrada principal do site. Nela ao topo aparece os nomes das próximas páginas, para que o usuário entre ao clicar em uma das três.
 
-1. *Tela Inicial (index.php)*: Esta página serve como a entrada principal do site. Ela apresenta um breve texto explicativo sobre o propósito do site e links para as páginas de login e cadastro.
+2. *Tela de Cadastro - cadastro.php*: Página para novos usuários se cadastrarem. O formulário de cadastro solicita o nome, email e senha para o usuário.
 
-2. *Tela de Cadastro (cadastro.php)*: Esta página permite que novos usuários se cadastrem no site. O formulário de cadastro solicita o nome, email e senha do usuário.
-
-3. *Tela de Login (login.php)*: Esta página permite que usuários já cadastrados façam login no site. O formulário de login solicita o email e a senha do usuário.
+3. *Tela de Login - login.php*: Para que usuários já cadastrados façam login. O formulário de login solicita o email e a senha do usuário.
 
 ## Tecnologias Utilizadas
 
-- *HTML*: Utilizado para a estrutura das páginas web.
-- *CSS*: Utilizado para a estilização básica.
-- *Bootstrap*: Utilizado para a estilização avançada e responsividade.
-- *PHP*: Utilizado para a lógica de backend e manipulação de formulários.
+- *HTML*: Utilizado para a estrutura das páginas.
+- *CSS*: Utilizado para a estilização do site.
+- *Bootstrap*: Utilizado para a estilização em modelo pronto.
+- *PHP*: Utilizado inicialmente para formato dos arquivos.
 
 ## Como Executar o Projeto
 
