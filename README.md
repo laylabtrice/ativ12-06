@@ -18,10 +18,13 @@ Este projeto é um site simples com funcionalidade de criação de cadastro e lo
 ## Estrutura do Projeto
 
 1. *Tela Inicial - index.php*: Serve como a entrada principal do site. Nela ao topo aparece os nomes das próximas páginas, para que o usuário entre ao clicar em uma das três.
+![Home](hhttps://github.com/laylabtrice/ativ12-06/blob/main/imagens/home.png)  
 
 2. *Tela de Cadastro - cadastro.php*: Página para novos usuários se cadastrarem. O formulário de cadastro solicita o nome, email e senha para o usuário.
+![Cadastro](https://github.com/laylabtrice/ativ12-06/blob/main/imagens/cadastro.png)  
 
 3. *Tela de Login - login.php*: Para que usuários já cadastrados façam login. O formulário de login solicita o email e a senha do usuário.
+![Login](https://github.com/laylabtrice/ativ12-06/blob/main/imagens/login.png)  
 
 ## Tecnologias Utilizadas
 
