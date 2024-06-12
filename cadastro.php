@@ -21,9 +21,10 @@
     body {
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
     box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+    font-size: 1.13rem;
     }
     .cover-container {
-      max-width: 42em;
+      max-width: 70em;
     }
 
     .nav-masthead .nav-link {
@@ -32,6 +33,7 @@
       color: rgba(255, 255, 255, .5);
       background-color: transparent;
       border-bottom: .25rem solid transparent;
+      font-size: 1.8em;
     }
 
     .nav-masthead .nav-link:hover,
@@ -46,6 +48,9 @@
     .nav-masthead .active {
       color: #fff;
       border-bottom-color: #fff;
+    }
+    p{
+      font-size: 1.4rem;
     }
 
     </style>
