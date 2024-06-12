@@ -2,7 +2,7 @@
 
 ## Resumo do Projeto
 
-Este projeto é um site com funcionalidade de criação de cadastro e login de contas para usuários já cadastrados, desenvolvido como atividade em aula ede Desenvolvimento WEB. O site possui três páginas: a tela inicial, a tela de cadastro e a tela de login. Para o CSS foi utilizado o BOOTSTRAP.
+Este projeto é um site simples com funcionalidade de criação de cadastro e login de contas para usuários já cadastrados, desenvolvido como atividade em aula ede Desenvolvimento WEB. O site possui três páginas: a tela inicial, a tela de cadastro e a tela de login. Para o CSS foi utilizado o BOOTSTRAP.
 
  
 ## Índice
@@ -49,7 +49,7 @@ Futuramente para o projeto, será desenvolvido em sala de aula com auxilio do pr
 
 ## Sobre execução
 
-Projeto desenvolvido por [@laylabtrice](https://github.com/laylabtrice) como  resposta a uma atividade em sala de aula. Para o modelo pronto do CSS, foi utilizado [modelo BOOTSTRAP](https://getbootstrap.com/docs/5.0/examples/cover/)
+Projeto desenvolvido por [@laylabtrice](https://github.com/laylabtrice) como  resposta a uma atividade em sala de aula. Para o modelo pronto do CSS, foi utilizado modelo [BOOTSTRAP](https://getbootstrap.com/docs/5.0/examples/cover/)
 
 ## Fontes
 
