@@ -2,7 +2,7 @@
 
 ## Resumo do Projeto
 
-Este projeto é um site simples de criação e login de contas, desenvolvido como parte de uma atividade de aula em Desenvolvimento Web. O site é composto por três páginas principais: a tela inicial, a tela de cadastro e a tela de login. A lógica de backend foi implementada em PHP, enquanto a estilização das páginas foi feita utilizando Bootstrap, oferecendo uma interface moderna e responsiva.
+Este projeto é um site com funcionalidade de criação de cadastro e login de contas para usuários já cadastrados, desenvolvido como atividade em aula ede Desenvolvimento WEB. O site possui três páginas: a tela inicial, a tela de cadastro e a tela de login. Para o CSS foi utilizado o BOOTSTRAP.
 
  
 ## Índice
@@ -11,7 +11,7 @@ Este projeto é um site simples de criação e login de contas, desenvolvido com
 2. [Estrutura do Projeto](#estrutura-do-projeto)
 3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 4. [Como Executar o Projeto](#como-executar-o-projeto)
-5.
+5. [Execuções Futuras](#execuções-futuras)
 6. [Diretórios](#diretórios)
 7. [Sobre Execução](#sobre-execução)
 
@@ -36,7 +36,7 @@ O projeto é dividido em três páginas principais:
 
 1. *Inicio*: Certifique que possui uma plataforma com suporte para PHP em seu computador.
 2. *Clonar*: Clone este repositório em seu servidor web.
-3. *Abra no Navegador*: Abra o navegador e acesse o caminho do projeto no servidor web para visualizar a tela inicial.
+3. *Abra o Navegador*: Abra o navegador e acesse o caminho do projeto no servidor web para visualizar a tela inicial.
 
 ## Execuções futuras
 
