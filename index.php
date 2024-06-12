@@ -39,24 +39,79 @@
     .nav-masthead .nav-link:hover,
     .nav-masthead .nav-link:focus {
       border-bottom-color: rgba(255, 255, 255, .25);
+      color: #fff;
+      border-bottom-color: #fff;
     }
 
     .nav-masthead .nav-link + .nav-link {
       margin-left: 1rem;
     }
 
-    .nav-masthead .active {
-      color: #fff;
-      border-bottom-color: #fff;
-    }
     p{
-      font-size: 1.4rem;
+      font-size: 1.5rem;
+      color: darkorange;
     }
 
     .lead {
-      font-size: 2rem;
+      font-size: 1.8rem;
     }
 
+    form {
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background-color: #f9f9f9;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .form-group {
+      margin-bottom: 15px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 11px;
+      font-weight: bold;
+      color: #333;
+    }
+    
+    input[type="email"],
+    input[type="password"] {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-sizing: border-box;
+    }
+    
+    button.btn-primary {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      background-color: #007bff;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      font-size: 1.4rem;
+    }
+    
+    button.btn-primary:hover {
+      background-color: #0056b3;
+    }
+
+    main.px-3 {
+      padding: 15px;
+      text-align: center;
+    }
+    
+    h1 {
+      margin-bottom: 20px;
+    }
+  
     </style>
 
     <link href="cover.css" rel="stylesheet">

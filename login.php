@@ -39,18 +39,17 @@
     .nav-masthead .nav-link:hover,
     .nav-masthead .nav-link:focus {
       border-bottom-color: rgba(255, 255, 255, .25);
+      color: #fff;
+      border-bottom-color: #fff;
     }
 
     .nav-masthead .nav-link + .nav-link {
       margin-left: 1rem;
     }
 
-    .nav-masthead .active {
-      color: #fff;
-      border-bottom-color: #fff;
-    }
     p{
-      font-size: 1.4rem;
+      font-size: 1.5rem;
+      color: darkorange;
     }
 
     form {
