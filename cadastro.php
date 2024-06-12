@@ -16,7 +16,7 @@
     .btn-secondary:hover,
     .btn-secondary:focus { color: #333;
     text-shadow: none;
-}
+    }
 
     body {
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);

@@ -16,7 +16,7 @@
     .btn-secondary:hover,
     .btn-secondary:focus { color: #333;
     text-shadow: none;
-}
+    }
 
     body {
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
@@ -54,7 +54,7 @@
   </head>
   <body class="d-flex h-100 text-center text-white bg-dark">
     
-<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="mb-auto">
     <div>
       <h3 class="float-md-start mb-0">Entre ou cadastre-se</h3>
